@@ -1,2 +1,2 @@
-# Example_Readme
+# Example of README.md
 Exercise
